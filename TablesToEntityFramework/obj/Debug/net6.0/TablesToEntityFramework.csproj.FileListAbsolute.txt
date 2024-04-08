@@ -1,0 +1,15 @@
+C:\Users\eneko.rebollo\Desktop\patata\TablesToEntityFramework\TablesToEntityFramework\bin\Debug\net6.0\TablesToEntityFramework.exe
+C:\Users\eneko.rebollo\Desktop\patata\TablesToEntityFramework\TablesToEntityFramework\bin\Debug\net6.0\TablesToEntityFramework.deps.json
+C:\Users\eneko.rebollo\Desktop\patata\TablesToEntityFramework\TablesToEntityFramework\bin\Debug\net6.0\TablesToEntityFramework.runtimeconfig.json
+C:\Users\eneko.rebollo\Desktop\patata\TablesToEntityFramework\TablesToEntityFramework\bin\Debug\net6.0\TablesToEntityFramework.dll
+C:\Users\eneko.rebollo\Desktop\patata\TablesToEntityFramework\TablesToEntityFramework\bin\Debug\net6.0\TablesToEntityFramework.pdb
+C:\Users\eneko.rebollo\Desktop\patata\TablesToEntityFramework\TablesToEntityFramework\obj\Debug\net6.0\TablesToEntityFramework.csproj.AssemblyReference.cache
+C:\Users\eneko.rebollo\Desktop\patata\TablesToEntityFramework\TablesToEntityFramework\obj\Debug\net6.0\TablesToEntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eneko.rebollo\Desktop\patata\TablesToEntityFramework\TablesToEntityFramework\obj\Debug\net6.0\TablesToEntityFramework.AssemblyInfoInputs.cache
+C:\Users\eneko.rebollo\Desktop\patata\TablesToEntityFramework\TablesToEntityFramework\obj\Debug\net6.0\TablesToEntityFramework.AssemblyInfo.cs
+C:\Users\eneko.rebollo\Desktop\patata\TablesToEntityFramework\TablesToEntityFramework\obj\Debug\net6.0\TablesToEntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\eneko.rebollo\Desktop\patata\TablesToEntityFramework\TablesToEntityFramework\obj\Debug\net6.0\TablesToEntityFramework.dll
+C:\Users\eneko.rebollo\Desktop\patata\TablesToEntityFramework\TablesToEntityFramework\obj\Debug\net6.0\refint\TablesToEntityFramework.dll
+C:\Users\eneko.rebollo\Desktop\patata\TablesToEntityFramework\TablesToEntityFramework\obj\Debug\net6.0\TablesToEntityFramework.pdb
+C:\Users\eneko.rebollo\Desktop\patata\TablesToEntityFramework\TablesToEntityFramework\obj\Debug\net6.0\TablesToEntityFramework.genruntimeconfig.cache
+C:\Users\eneko.rebollo\Desktop\patata\TablesToEntityFramework\TablesToEntityFramework\obj\Debug\net6.0\ref\TablesToEntityFramework.dll
